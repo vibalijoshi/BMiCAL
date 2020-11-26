@@ -5,6 +5,7 @@ A flutter app for calculating BMI based on [Ruben Vaalt's beautiful BMI Calculat
 
 ## Technologies used
 - Flutter
+- Splash Screen drawn in [Figma](https://www.figma.com/)
 
 ## How to Use 
 
@@ -13,7 +14,7 @@ A flutter app for calculating BMI based on [Ruben Vaalt's beautiful BMI Calculat
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/vibalijoshi/CryptoMon.git
+https://github.com/vibalijoshi/BMiCAL.git
 ```
 
 **Step 2:**
